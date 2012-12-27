@@ -20,7 +20,7 @@ assumptions:
 * You are OK with Nokogiri parsing and modifying all text/html responses
 * The markup all uses simple urls that don't already have query params or
   such appended already
-* Query params style cachebusting gotchas aren't going to post a big problem
+* Query params style cachebusting gotchas aren't going to pose a big problem
   for you
 
 If you need a more feature rich implementation, Sprockets/AssetPipeline would
